@@ -34,13 +34,12 @@ Atualmente atuo no desenvolvimento de sistemas distribuídos, com atenção espe
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <a href="https://github.com/juliocesarcoutinho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliocesarcoutinho&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-BR"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocesarcoutinho&layout=compact&langs_count=7&theme=dark&locale=pt-BR"/>
-</div></a>
-  <br/>
+### 🧠 Minha abordagem
+- Código simples, legível e sustentável
+- Domínio no centro da solução
+- Testes como parte do design
+- Evolução contínua sem overengineering
+
 
 
 ---
