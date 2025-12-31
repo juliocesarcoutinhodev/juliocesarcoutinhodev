@@ -1,16 +1,49 @@
-## Hi there 👋
+## 👋 Olá, eu sou o Julio Cesar Coutinho
 
-<!--
-**juliocesarcoutinhodev/juliocesarcoutinhodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Desenvolvedor Java Sênior**, com foco em **backend**, **microserviços** e **APIs REST**.
+Trabalho diariamente com **Spring Boot**, aplicando **Clean Architecture**, **SOLID** e **DDD** para construir soluções escaláveis, seguras e de fácil manutenção.
 
-Here are some ideas to get you started:
+Atualmente atuo no desenvolvimento de sistemas distribuídos, com atenção especial à qualidade de código, arquitetura e boas práticas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Principais áreas de atuação
+- Backend Java com **Spring Boot**
+- **APIs RESTful** e integração entre serviços
+- **Microserviços** e arquitetura modular
+- Modelagem de domínio com **DDD**
+- Qualidade de código (**Clean Code** e **SOLID**)
+- Persistência com JPA / Hibernate
+- Versionamento de banco com Flyway
+- Integração com bancos relacionais
+
+---
+
+### 🛠️ Tecnologias e ferramentas
+<div>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+</div>
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=juliocesarcoutinhodev&show_icons=true&theme=dark&count_private=true&locale=pt-BR"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocesarcoutinhodev&layout=compact&theme=dark&locale=pt-BR"/>
+</div>
+
+---
+
+### 🌐 Onde me encontrar
+- 💼 LinkedIn: [linkedin.com/in/juliocesarcoutinho](https://www.linkedin.com/in/juliocesarcoutinho)
+- 📷 Instagram: [@juliocesarcoutinho](https://www.instagram.com/juliocesarcoutinho/)
+
+---
