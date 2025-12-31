@@ -36,9 +36,16 @@ Atualmente atuo no desenvolvimento de sistemas distribuídos, com atenção espe
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=juliocesarcoutinhodev&show_icons=true&theme=dark&count_private=true&locale=pt-BR"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocesarcoutinhodev&layout=compact&theme=dark&locale=pt-BR"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=juliocesarcoutinho&show_icons=true&theme=dark&count_private=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocesarcoutinho&layout=compact&theme=dark"
+    height="170"
+  />
 </div>
+
 
 ---
 
