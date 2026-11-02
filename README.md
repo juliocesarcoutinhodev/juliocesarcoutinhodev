@@ -1,25 +1,25 @@
-## 👋 Olá, eu sou o Julio Cesar Coutinho
+## 👋 Hi, I'm Julio Cesar Coutinho
 
-Sou **Desenvolvedor Java Sênior**, com foco em **backend**, **microserviços** e **APIs REST**.
-Trabalho diariamente com **Spring Boot**, aplicando **Clean Architecture**, **SOLID** e **DDD** para construir soluções escaláveis, seguras e de fácil manutenção.
+I am a **Senior Java Developer** focused on **backend engineering**, **microservices**, and **RESTful APIs**.
+Daily, I work with **Spring Boot**, applying **Clean Architecture**, **SOLID**, and **DDD** principles to build scalable, secure, and maintainable software solutions.
 
-Atualmente atuo no desenvolvimento de sistemas distribuídos, com atenção especial à qualidade de código, arquitetura e boas práticas.
-
----
-
-### 🚀 Principais áreas de atuação
-- Backend Java com **Spring Boot**
-- **APIs RESTful** e integração entre serviços
-- **Microserviços** e arquitetura modular
-- Modelagem de domínio com **DDD**
-- Qualidade de código (**Clean Code** e **SOLID**)
-- Persistência com JPA / Hibernate
-- Versionamento de banco com Flyway
-- Integração com bancos relacionais
+Currently, I specialize in designing distributed systems with a strong emphasis on code quality, robust architecture, and engineering best practices.
 
 ---
 
-### 🛠️ Tecnologias e ferramentas
+### 🚀 Core Expertise
+- Backend Java development with **Spring Boot**
+- High-performance **RESTful APIs** and service integration
+- **Microservices** and modular architecture
+- Domain modeling with **Domain-Driven Design (DDD)**
+- Code quality & design principles (**Clean Code**, **SOLID**)
+- Persistence with Spring Data JPA / Hibernate
+- Database migration and versioning with **Flyway**
+- Relational database management
+
+---
+
+### 🛠️ Tech Stack & Tools
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -34,17 +34,15 @@ Atualmente atuo no desenvolvimento de sistemas distribuídos, com atenção espe
 
 ---
 
-### 🧠 Minha abordagem
-- Código simples, legível e sustentável
-- Domínio no centro da solução
-- Testes como parte do design
-- Evolução contínua sem overengineering
-
-
+### 🧠 My Engineering Approach
+- Clean, readable, and sustainable code
+- Putting domain logic at the center of the solution
+- Test-driven mindset as part of the architecture design
+- Continuous evolution without overengineering
 
 ---
 
-### 🌐 Onde me encontrar
+### 🌐 Connect with me
 - 💼 LinkedIn: [linkedin.com/in/juliocesarcoutinho](https://www.linkedin.com/in/juliocesarcoutinho)
 - 📷 Instagram: [@juliocesarcoutinho](https://www.instagram.com/juliocesarcoutinho/)
 
